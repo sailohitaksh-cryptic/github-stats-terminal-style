@@ -11,7 +11,7 @@
     },
     "default": {
         "name": "default",
-        "back": "#272822",
+        "back": "#0000000",
         "fore": "#f8f8f2",
         "green": "#a6e22e",
         "purple": "#ae81ff",
