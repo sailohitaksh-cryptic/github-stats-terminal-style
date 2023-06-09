@@ -15,7 +15,7 @@ let align_username = (username) => {
     } else if (len <= 10) {
         return username + "@git"
     } else if (len > 16) {
-        return username.slice(0, 17)
+        return username.slice(0, 20)
     } else {
         return username
     }
