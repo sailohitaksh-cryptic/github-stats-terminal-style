@@ -56,7 +56,7 @@ class GithubUser {
         this.name = this.userContent.data.name;
         this.repo = align(this.userContent.data.public_repos);
         this.gists = align(this.userContent.data.public_gists);
-        this.followers = align(67);
+        this.followers = align(this.userContent.data.followers);
         this.createdAt = dateDiffInDays(this.userContent.data.created_at);
         this.starsCount = 0;
         this.forkCount = 0;
