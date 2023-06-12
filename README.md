@@ -28,7 +28,7 @@ node updater.js ${{ github.repository_owner }} <themeName>
 ```
 
 To use a random theme, do not specify any arguments.
-
+<!--
 |                           **Theme Sample**                            | **Theme Name** |         **Theme Sample**        |  **ThemeName** |
 | :-------------------------------------------------------------------: | :------------: | :------------------------------:| :-------------: |
 |      <img align="center" src="./themes/ubuntu.svg" alt="ubuntu">      |     ubuntu     | <img align="center" src="./themes/hacker.svg" alt="hacker">  |   hacker   |
@@ -36,7 +36,7 @@ To use a random theme, do not specify any arguments.
 |     <img align="center" src="./themes/default.svg" alt="default">     |    default     | <img align="center" src="./themes/googlelight.svg" alt="googlelight"> |  googlelight   |
 |     <img align="center" src="./themes/dracula.svg" alt="dracula">     |    dracula     | <img align="center" src="./themes/monokai.svg" alt="monokai">     |    monokai     |
 |      <img align="center" src="./themes/github.svg" alt="github">      |     github     | <img align="center" src="./themes/powershell.svg" alt="powershell">  |   powershell   |
-
+-->
 ## Contributions
 
 Contributions, issue and pull requests are welcome
